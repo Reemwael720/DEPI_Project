@@ -1,6 +1,6 @@
 
 
- # Speech-to-Text and Sentiment Analysis Application
+ # Speech-to-Text Translation and Sentiment Analysis Application
 
 ![image](https://github.com/user-attachments/assets/f8fa4ac8-c18c-4900-8ca9-603e6aeffe92)
 
@@ -29,17 +29,23 @@ TELEK-APP/
 ```
 
 ## UI
-![image](https://github.com/user-attachments/assets/64c2d670-e490-4ed9-bd2e-3c765568ae99)
+![image](https://github.com/user-attachments/assets/4a6c81a1-e1e5-4ecd-b460-b07e60d416b4)
+
 
 
 
 ## DEMO
 
-https://github.com/user-attachments/assets/458edfc6-833e-423f-b8d6-debbb0b6f8b6
+
+
+https://github.com/user-attachments/assets/71da040d-99c3-4925-af95-7e10f7c64eed
 
 
 
-https://github.com/user-attachments/assets/05e25e76-47fe-4c03-8b1b-a942893e418f
+
+
+https://github.com/user-attachments/assets/094fe3bf-b7be-4bb6-91b7-e469e68c3822
+
 
 
 
@@ -85,5 +91,17 @@ The results will be displayed on the interface.
 
 
 
+<!-- Contributors -->
+## <img  align= center width=50px height=50px src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id = "contributors"></a>
 
-     
+<!-- Contributors list -->
+<table align="center" >
+  <tr>
+        <td align="center"><a href="https://github.com/MightyMaya"><img src="https://avatars.githubusercontent.com/u/130902434?v=4" width="150px;" alt=""/><br /><sub><b>Maya</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Reem463"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="150px;" alt=""/><br /><sub><b>Reem Al Ghazali </b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/BasmaElhoseny01"><img src="https://avatars.githubusercontent.com/u/72309546?v=4" width="150px;" alt=""/><br /><sub><b>Basma Elhoseny</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/MrJouH4"><img src="https://avatars.githubusercontent.com/u/75612905?v=4" width="150px;" alt=""/><br /><sub><b>Youssef Hisham</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/ZahyElgendy"><img src="https://avatars.githubusercontent.com/u/145224435?v=4" width="150px;" alt=""/><br /><sub><b>Zahy Elgendy</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Usama-Mohammed"><img src="https://avatars.githubusercontent.com/u/181756088?v=4" width="150px;" alt=""/><br /><sub><b>Usama Mohammed</b></sub></a><br /></td>
+  </tr>
+</table>
